@@ -1,8 +1,14 @@
-# React + Vite
+# Kalkulator Penjumlahan Matriks 4x4
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi web sederhana yang dibangun menggunakan **React** dan **Vite** untuk menyimulasikan perhitungan jumlah baris dan kolom pada sebuah matriks berukuran 4x4. 
 
-Currently, two official plugins are available:
+## Fitur
+* Antarmuka grid matriks 4x4 yang interaktif.
+* Input nilai matriks secara dinamis.
+* Menampilkan hasil penjumlahan untuk setiap baris di kolom paling kanan.
+* Menampilkan hasil penjumlahan untuk setiap kolom di baris paling bawah.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Teknologi yang Digunakan
+* [React.js](https://react.dev/) - Library JavaScript untuk membangun antarmuka pengguna.
+* [Vite](https://vitejs.dev/) - *Build tool* yang cepat untuk proyek web modern.
+* HTML/CSS & Class Utility (mendukung struktur layout seperti Bootstrap).
